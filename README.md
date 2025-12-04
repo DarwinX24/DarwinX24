@@ -31,9 +31,9 @@ Currently, I'm deepening my expertise in **machine learning deployments on OCI**
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [Your Email Address]
-- **Portfolio/Website:** [If you have one, add it here]
+- **LinkedIn:www.linkedin.com/in/frank-kibet-49b36832b
+- **Email:charlesdarwinx6@gmail.com
+- **Telephone: +254718757593
 
 ---
 
