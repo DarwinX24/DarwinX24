@@ -15,7 +15,7 @@ Currently, I'm deepening my expertise in **machine learning deployments on OCI**
 
 💻 My Core Skills:
 - Cloud: 'Oracle Cloud Infrastructure (OCI)'
-- Data Analysis: `R`, `R Studio`, `SQL`, `Pandas`, `NumPy`
+- Data Analysis: `R`, `R Studio`, `SQL`, `Pandas`, `NumPy`, 'Power Bi'
 - Programming:`Python`, `R`
 - Databases: `SQL`, `Oracle Database`
 - Tools: `Git`, `Docker` (learning)
